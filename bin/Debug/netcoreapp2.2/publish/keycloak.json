@@ -1,0 +1,8 @@
+{
+    "realm": "rusty-firecracker",
+    "auth-server-url": "https://auth.sftynrd.dev/auth",
+    "ssl-required": "external",
+    "resource": "dotnet-connect-test",
+    "public-client": true,
+    "confidential-port": 0
+  }

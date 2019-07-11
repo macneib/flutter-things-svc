@@ -1,0 +1,14 @@
+/home/macneib/work/flint/flutter-things-svc/bin/Debug/netcoreapp2.2/flutter-things-svc.deps.json
+/home/macneib/work/flint/flutter-things-svc/bin/Debug/netcoreapp2.2/flutter-things-svc.runtimeconfig.json
+/home/macneib/work/flint/flutter-things-svc/bin/Debug/netcoreapp2.2/flutter-things-svc.runtimeconfig.dev.json
+/home/macneib/work/flint/flutter-things-svc/bin/Debug/netcoreapp2.2/flutter-things-svc.dll
+/home/macneib/work/flint/flutter-things-svc/bin/Debug/netcoreapp2.2/flutter-things-svc.pdb
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.csprojAssemblyReference.cache
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.csproj.CoreCompileInputs.cache
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.RazorAssemblyInfo.cache
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.RazorAssemblyInfo.cs
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.AssemblyInfoInputs.cache
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.AssemblyInfo.cs
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.RazorTargetAssemblyInfo.cache
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.dll
+/home/macneib/work/flint/flutter-things-svc/obj/Debug/netcoreapp2.2/flutter-things-svc.pdb
